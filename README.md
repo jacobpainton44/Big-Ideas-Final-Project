@@ -1,3 +1,10 @@
 # Big-Ideas-Final-Project
-Big Ideas in Computing and Information Final Project. Contributors are: Tyler Ryan, Praneel Murthy, and Jacob Painton
+Team Name: ProcrastiNation
+
+Contributors are: 
+Tyler Ryan: tjr86@pitt.edu
+Praneel Murthy: prm89@pitt.edu
+Jacob Painton: jbp53@pitt.edu
+
+
 
