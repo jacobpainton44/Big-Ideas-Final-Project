@@ -1,5 +1,5 @@
 # Big-Ideas-Final-Project
-Team Name: ProcrastiNation
+Team Name: Team OT
 
 Contributors are: 
 Tyler Ryan: tjr86@pitt.edu
