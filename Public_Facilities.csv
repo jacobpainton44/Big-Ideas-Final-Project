@@ -1,0 +1,838 @@
+neighborhood,facility name,facility subtype
+31st Ward,Engine Company No 12,fire station
+31st Ward,Police Station No 7,police station
+31st Ward,Mifflin Elementary,public school 
+31st Ward,Taylor Allderdice High,public school 
+31st Ward,McBride Park,recreational facility
+31st Ward,Revenue Street Basketball Court,recreational facility
+31st Ward,Lincoln Place Tot Lot,recreational facility
+Allegheny Center,Fire Station No 43,fire station
+Allegheny Center,Fire Station No 46,fire station
+Allegheny Center,Police Station No 7,police station
+Allegheny Center,Carnegie Library North Side Branch,public library
+Allegheny Center,Allegheny Commons,recreational facility
+Allegheny Center,Allegheny High School court games,recreational facility
+Allegheny Center,Allegheny High School ballfield,recreational facility
+Allegheny Center,Martin Luther King Elementary School ballfield,recreational facility
+Allegheny Center,Martin Luther King Elementary School court games,recreational facility
+Allegheny Center,Martin Luther King Elementary School ballfield,recreational facility
+Allegheny Center,Sue Murray outdoor swimming pool,recreational facility
+Allegheny Center,Martin Luther King Elementary School,public school 
+Allegheny Center,Latimer Middle School,public school 
+Allegheny Center,Allegheny High School,public school 
+Allegheny Center,Allegheny General Hospital,health facility
+Allegheny Center,Divine Providence Hospital,health facility
+Allegheny Center,St. Johns Hospital,health facility
+Allegheny West,Fire Station No 43,fire station 
+Allegheny West,Fire Station No 46,fire station 
+Allegheny West,Fire Station No 47,fire station 
+Allegheny West,Police Station No 9,police station
+Allegheny West,Carnegie Library North Side Branch,public library
+Allegheny West,Allegheny Commons West Park Sections,recreational facility
+Allegheny West,Community College of Allegheny County indoor facilities,recreational facility
+Allegheny West,Community College of Allegheny County Ballfields,recreational facility
+Allegheny West,Conroy Elementary School,public school 
+Allegheny West,Conroy Junior High School,public school 
+Allegheny West,Allegheny High School,public school 
+Allegheny West,Allegheny General Hospital,health facility
+Allegheny West,Manchester Clinic with Allegheny General Hospital,health facility
+Allegheny West,Divine Providence Hospital,health facility
+Allegheny West,St. Johns Hospital,health facility
+Allentown,Police Station No 7,police station
+Allentown,Fire Station No 21,fire station 
+Allentown,Grandview Park,recreational facility
+Allentown,Warrington Recreation Center,recreational facility
+Allentown,Grandview Elementary,public school 
+Arlington,Police Station No 7,police station
+Arlington,Fire Station No 22,fire station 
+Arlington,South Side Park,recreational facility
+Arlington,Arlington Playground,recreational facility
+Arlington,Cobden St. Basketball Court,recreational facility
+Arlington,Arlington Elementary,public school 
+Arlington Heights,Police Station No 7,police station
+Arlington Heights,Fire Station No 22,fire station 
+Arlington Heights,Devlin Playground,recreational facility
+Arlington Heights,Monongahela Playground,recreational facility
+Arlington Heights,Various Tot Lots,recreational facility
+Arlington Heights,Arlington Elementary,public school 
+Arlington Heights,South Junior and Senior High,public school 
+Banksville,Police District No 8,police station
+Banksville,Fire Station No 60,fire station 
+Banksville,Banksville Little League Field,recreational facility
+Banksville,Banksville School Playground,recreational facility
+Banksville,Banksville Elementary School,public school 
+Banksville,South Hills High,public school 
+Bedford Dwellings,Police Station No 2,police station
+Bedford Dwellings,Fire Station No 5,fire station
+Bedford Dwellings,McKelvy Elementary School,public school 
+Bedford Dwellings,Schenley High School,public school 
+Bedford Dwellings,Fifth Avenue High School,public school 
+Bedford Dwellings,Amon Recreation Center,recreational facility
+Bedford Dwellings,McKelvy Field,recreational facility
+Bedford Dwellings,Housing Authority Tot Lots,recreational facility
+Bedford Dwellings,Tulsa and White Parklet,recreational facility
+Beechview,Police District No 8,police station
+Beechview,Fire Station No 60,fire station
+Beechview,Beechwood Elementary School,public school 
+Beechview,Lee Elementary School,public school 
+Beechview,Brashear High School,public school 
+Beechview,South Hills High School,public school 
+Beechview,Beechview Playground,recreational facility
+Beechview,Pauline Avenue Parklet,recreational facility
+Beechview,Alton Field,recreational facility
+Beechview,Beechwood Parklet,recreational facility
+Beechview,Tropical Parklet,recreational facility
+Beechview,Southwest Pittsburgh Mental Health,health facility
+Beltzhoover,Police Station No 7,police station
+Beltzhoover,Fire Station No 21,fire station
+Beltzhoover,McKinley Park,recreational facility
+Beltzhoover,Warrington Recreational Center,recreational facility
+Beltzhoover,Beltzhoover Elementary School,public school 
+Beltzhoover,Knoxville Middle School,public school 
+Beltzhoover,South Hills High School,public school 
+Bloomfield,Police Station No 3,police station
+Bloomfield,Engine Company No 6,fire station 
+Bloomfield,Engine and Truck Company No 25,fire station 
+Bloomfield,West Penn Hospital,health facility
+Bloomfield,St. Francis Hospital,health facility
+Bloomfield,Shadyside Hospital,health facility
+Bloomfield,Woolslayer Elementary School,public school 
+Bloomfield,Friendship Elementary School,public school 
+Bloomfield,Arsenal Middle School,public school 
+Bloomfield,Schenley High School,public school 
+Bloomfield,Bloomfield Recreation Center and Pool,recreational facility
+Bloomfield,Friendship Park,recreational facility
+Bloomfield,Osceola Parklet,recreational facility
+Bon Air,Police Station No 7,police station
+Bon Air,Fire Station No 23,fire station 
+Bon Air,Pioneer School Parklet,recreational facility
+Bon Air,Bon Air Elementary,public school 
+Brighton Heights,Fire Station No 55,fire station 
+Brighton Heights,Fire Station No 52,fire station 
+Brighton Heights,Fire Station No 45,fire station 
+Brighton Heights,Police Station No 9,police station
+Brighton Heights,Carnegie Library North Side Branch,public library
+Brighton Heights,Marmaduke playground,recreational facility
+Brighton Heights,Benton ballfields,recreational facility
+Brighton Heights,Fleming court games,recreational facility
+Brighton Heights,Fleming ballfield,recreational facility
+Brighton Heights,John Morrow Elementary School play yard,recreational facility
+Brighton Heights,John Morrow Elementary School,public school 
+Brighton Heights,Columbus Middle School,public school 
+Brighton Heights,Oliver High School,public school 
+Brighton Heights,St. Johns Hospital,health facility
+Brighton Heights,Allegheny General Hospital,health facility
+Brighton Heights,Divine Providence Hospital,health facility
+Brookline,Fire Station No 57,fire station
+Brookline,Carnegie Library Brookine Branch,public library
+Brookline,Police District No 2,police station
+Brookline,Moore Park,recreational facility
+Brookline,Brookline Community Recreation Center,recreational facility
+Brookline,Brookline Park,recreational facility
+Brookline,Starkamp Court,recreational facility
+Brookline,Brookline Elementary,public school 
+Brookline,West Liberty Elementary,public school 
+Brookline,Pioneer Elementary,public school 
+Brookline,South Hills High School,public school 
+California Ave,Fire Station No 43,fire station 
+California Ave,Fire Station No 46,fire station 
+California Ave,Fire Station No 47,fire station 
+California Ave,Police Station No 9,police station
+California Ave,Carnegie Library North Side Branch,public library
+California Ave,Columbus School Playground,recreational facility
+California Ave,Columbus School Ballfield,recreational facility
+California Ave,Manchester Elementary Playground,recreational facility
+California Ave,Manchester Elementary Ballfield,recreational facility
+California Ave,Manchester Elementary,public school 
+California Ave,Columbus Middle School,public school 
+California Ave,Oliver High,public school 
+California Ave,Allegheny General Hospital,health facility
+California Ave,Divine Providence Hospital,health facility
+California Ave,St. Johns Hospital,health facility
+Carrick,Police Station No 7,police station
+Carrick,No 23 Fire Station,fire station
+Carrick,"Carnegie Library, Carrick Branch",public library
+Carrick,Phillips Park,recreational facility
+Carrick,Leolyn Street Parklet,recreational facility
+Carrick,Poplargrove Court,recreational facility
+Carrick,Carrick High School Athletic Field,recreational facility
+Carrick,Volunteers Field,recreational facility
+Carrick,Carrick High School,public school
+Carrick,Concord Elementary School,public school
+Carrick,Quentin Roosevelt Elementary,public school
+Central North Side,Fire Station No 43,fire station 
+Central North Side,Fire Station No 46,fire station 
+Central North Side,Fire Station No 47,fire station 
+Central North Side,Police Station No 9,police station
+Central North Side,Carnegie Library North Side Branch,public library
+Central North Side,Allegheny Commons,recreational facility
+Central North Side,Allegheny High School Court Games,recreational facility
+Central North Side,Allegheny High School Ballfield,recreational facility
+Central North Side,Martin Luther King Court Games,recreational facility
+Central North Side,Martin Luther King Playground,recreational facility
+Central North Side,Martin Luther King Ballfield,recreational facility
+Central North Side,Jefferson Playground,recreational facility
+Central North Side,Arch Street Parklet,recreational facility
+Central North Side,Carrington Street Parklet,recreational facility
+Central North Side,Martin Luther King Elementary,public school 
+Central North Side,Columbus Middle School,public school 
+Central North Side,Latimer Middle School,public school 
+Central North Side,Allegheny High School,public school 
+Central North Side,Allegheny General Hospital,health facility
+Central North Side,Divine Providence Hospital,health facility
+Central North Side,St. Johns Hospital,health facility
+Crafton Heights - Westwood - Oakwood,Police District No 8,police station
+Crafton Heights - Westwood - Oakwood,Fire Station No 39,fire station
+Crafton Heights - Westwood - Oakwood,Dunbar Playground,recreational facility
+Crafton Heights - Westwood - Oakwood,Westwood Playground,recreational facility
+Crafton Heights - Westwood - Oakwood,Oakwood Parklet,recreational facility
+Crafton Heights - Westwood - Oakwood,East Carnegie Parklet,recreational facility
+Crafton Heights - Westwood - Oakwood,Shaeffer Elementary,public school 
+Crafton Heights - Westwood - Oakwood,Westwood Elementary,public school 
+Crafton Heights - Westwood - Oakwood,Greenway Middle under construction,public school 
+Crafton Heights - Westwood - Oakwood,Langley High,public school 
+East Brookline - Overbrook,Police District No 8,police station
+East Brookline - Overbrook,Fire Station No 59,fire station
+East Brookline - Overbrook,Overbrook Playground under construction,recreational facility
+East Brookline - Overbrook,Brookline Community Recreation Center,recreational facility
+East Brookline - Overbrook,Brookline Park,recreational facility
+East Brookline - Overbrook,Overbrook Elementary,public school 
+East Brookline - Overbrook,Carmalt Elementary,public school 
+East Brookline - Overbrook,Fairview Elementary,public school 
+East Brookline - Overbrook,Carrick High School,public school 
+East Carnegie,Police District No 2,police station
+East Carnegie,Fire Station No 10,fire station 
+East Carnegie,Fire Stations No 39,fire station 
+East Carnegie,East Carnegie Parklet,recreational facility
+East Carnegie,Westwood Elementary,public school 
+East Carnegie,Greenway Middle,public school 
+East Carnegie,Langley High,public school 
+East Hills,Police Station No 5,police station
+East Hills,Fire Station No 29,fire station 
+East Hills,East Hills Park,recreational facility
+East Hills,Crescent School Playground,recreational facility
+East Hills,Crescent Elementary,public school 
+East Hills,East Hills Elementary,public school 
+East Hills,Westinghouse High,public school 
+East Hills,Homewood-Brushton Neighborhood Health Center,health facility
+East Liberty,Police Station No 5,police station
+East Liberty,Fire Station No 8,fire station 
+East Liberty,Carnegie Library East Liberty Branch,public library
+East Liberty,East Liberty Playground,recreational facility
+East Liberty,Garland Parklet,recreational facility
+East Liberty,Mellon Park,recreational facility
+East Liberty,Enright Parklet,recreational facility
+East Liberty,Dilworth Elementary,public school 
+East Liberty,Larimer Elementary,public school 
+East Liberty,Lincoln Elementary,public school 
+East Liberty,Peabody High,public school 
+East Liberty,Pittsburgh Hospital,health facility
+East Liberty,West Penn Hospital,health facility
+East Liberty,Shadyside Hospital,health facility
+East North Side,Fire Station No 46,fire station 
+East North Side,Martin Luther King Court Games,recreational facility
+East North Side,Martin Luther King Playground,recreational facility
+East North Side,Martin Luther King Ballfield,recreational facility
+East North Side,Schiller Elementary School Play Yards,recreational facility
+East North Side,Tripoli Street Tot Lot,recreational facility
+East North Side,Schiller Elementary School,public school 
+East North Side,Fire Station No 42,fire station 
+East North Side,Fire Station No 43,fire station 
+East North Side,Police Station No 9,police station
+East North Side,Carnegie Library North Side Branch,public library
+Elliot,Fire Station No 39,fire station 
+Elliot,Police District No 8,police station
+Elliot,Herschel Playground,recreational facility
+Elliot,Townsend Parklet,recreational facility
+Elliot,West End Overlook,recreational facility
+Elliot,West End Park,recreational facility
+Elliot,Thaddeus Stevens Elementary,public school 
+Elliot,Greenway Middle under construction,public school 
+Elliot,Langley High,public school 
+Esplen,Police District No 8,police station
+Esplen,Fire Station No 40,fire station 
+Esplen,Esplen Tot Lot,recreational facility
+Esplen,Sheraden Elementary,public school 
+Esplen,Greenway Middle School,public school 
+Esplen,Langley High School,public school 
+Friendship,Police Station No 5,police station
+Friendship,Police Station No 9,police station
+Friendship,Friendship Park,recreational facility
+Friendship,Enright Parklet,recreational facility
+Friendship,Garland Parklet,recreational facility
+Friendship,Friendship Elementary,public school 
+Friendship,Peabody High,public school 
+Friendship,West Penn Hospital,health facility
+Garfield,Police Station No 3,police station
+Garfield,Police Station No 5,police station
+Garfield,Fire Station No 8,fire station
+Garfield,Fire Station No 6,fire station
+Garfield,Fire Station No 36,fire station 
+Garfield,Pittsburgh Hospital,health facility
+Garfield,West Penn Hospital,health facility
+Garfield,Shadyside Hospital,health facility
+Garfield,Garfield Playground,recreational facility
+Garfield,Broad Street Tot Lot,recreational facility
+Garfield,Rogers Tot Lot,recreational facility
+Garfield,Broad-Millvale Tot Lot,recreational facility
+Garfield,Highland Park,recreational facility
+Garfield,Fort Pitt Elementary,public school 
+Garfield,Rogers Elementary,public school 
+Garfield,Peabody High School,public school 
+Greenfield,Police District No 6,police station
+Greenfield,Fire Engine Company No 31,fire station
+Greenfield,Magee Recreational Center and Pool,recreational facility
+Greenfield,Forester Tot Lot,recreational facility
+Greenfield,Bud Hammer Playground,recreational facility
+Greenfield,Naylor Tot Lot,recreational facility
+Greenfield,Saline Tot Lot,recreational facility
+Greenfield,Schenley Park,recreational facility
+Greenfield,Greenfield Elementary,public school 
+Greenfield,Taylor Allderdice High School,public school 
+Harpen Hilltop,Fire Station No 50,fire station
+Harpen Hilltop,Fire Station No 52,fire station
+Harpen Hilltop,Police Station No 9,police station
+Harpen Hilltop,Carnegie Library North Side Branch,public library
+Harpen Hilltop,Perry High School ballfields,recreational facility
+Harpen Hilltop,Perry High School court games,recreational facility
+Harpen Hilltop,Chatham Elementary School,public school 
+Harpen Hilltop,McNaughter Middle School,public school 
+Harpen Hilltop,Perry High School,public school 
+Harpen Hilltop,Allegheny General Hospital,health facility
+Harpen Hilltop,Divine Providence Hospital,health facility
+Harpen Hilltop,St. John's Hospital,health facility
+Hazelwood-Glenwood-Glen Hazel,Police District No 4,police station
+Hazelwood-Glenwood-Glen Hazel,Fire Engine and Truck Company 13,fire station
+Hazelwood-Glenwood-Glen Hazel,Carnegie Library Chatsworth Street,public library
+Hazelwood-Glenwood-Glen Hazel,Gladstone Elementary,public school 
+Hazelwood-Glenwood-Glen Hazel,Burgwin Elementary,public school 
+Hazelwood-Glenwood-Glen Hazel,Gladstone Junior and Senior High School,public school 
+Hazelwood-Glenwood-Glen Hazel,Burgwin Playground and Pool,recreational facility
+Hazelwood-Glenwood-Glen Hazel,Lewis Playground,recreational facility
+Hazelwood-Glenwood-Glen Hazel,Old Grove Playround,recreational facility
+Hazelwood-Glenwood-Glen Hazel,Second Avenue Tot Lot,recreational facility
+Hazelwood-Glenwood-Glen Hazel,Sylvan Tot Lot,recreational facility
+Hazelwood-Glenwood-Glen Hazel,Elizabeth Tot Lot,recreational facility
+Hazelwood-Glenwood-Glen Hazel,Monongahela Tot Lot,recreational facility
+Hazelwood-Glenwood-Glen Hazel,Bray Tot Lot,recreational facility
+Hazelwood-Glenwood-Glen Hazel,Hazelwood Health Center,health facility
+Highland Park,Police Station No 5,police station
+Highland Park,Fire Station No 8,fire station 
+Highland Park,Highland Park complex,recreational facility
+Highland Park,Flynn Parklet,recreational facility
+Highland Park,Heth's Ballfield,recreational facility
+Highland Park,Dilworth Elementary,public school 
+Highland Park,Fulton Elementary,public school 
+Highland Park,Peabody High,public school 
+Highland Park,Pittsburgh Hospital,health facility
+Highland Park,West Penn Hospital,health facility
+Highland Park,Shadyside Hospital,health facility
+Homewood North,Police Station No 5,police station
+Homewood North,Fire Station No 29,fire station
+Homewood North,Baxter Park,recreational facility
+Homewood North,Chadwick Playground,recreational facility
+Homewood North,Homewood Recreation Center,recreational facility
+Homewood North,Westinghouse Park,recreational facility
+Homewood North,Upland Tot Lot,recreational facility
+Homewood North,Frankstown Tot Lot,recreational facility
+Homewood North,Homewood Pool,recreational facility
+Homewood North,Homewood North Parklet,recreational facility
+Homewood North,Finance Street Parklet,recreational facility
+Homewood North,Kelly Street Parklet,recreational facility
+Homewood North,Tioga Street Parklet,recreational facility
+Homewood North,Cora Tot Lot,recreational facility
+Homewood North,Hermitage Street Court,recreational facility
+Homewood North,Westinghouse High School,public school 
+Homewood North,Belmar Elementary,public school 
+Homewood North,Baxter Elemenary,public school 
+Homewood North,Crescent Elementary,public school 
+Homewood North,Homewood Elementary,public school 
+Homewood North,Homewood-Brushton Neighborhood Health Center,health facility
+Homewood North,Pittsburgh Hospital,health facility
+Homewood North,Columbia Hospital,health facility
+Homewood South,Police Station No 5,police station
+Homewood South,Fire Station No 29,fire station
+Homewood South,Baxter Park,recreational facility
+Homewood South,Chadwick Playground,recreational facility
+Homewood South,Homewood Recreation Center,recreational facility
+Homewood South,Westinghouse Park,recreational facility
+Homewood South,Upland Tot Lot,recreational facility
+Homewood South,Frankstown Tot Lot,recreational facility
+Homewood South,Homewood Pool,recreational facility
+Homewood South,Homewood North Parklet,recreational facility
+Homewood South,Finance Street Parklet,recreational facility
+Homewood South,Kely Street Parklet,recreational facility
+Homewood South,Tioga Street Parklet,recreational facility
+Homewood South,Cora Tot Lot,recreational facility
+Homewood South,Hermitage Street Court,recreational facility
+Homewood South,Westinghouse High School,public school 
+Homewood South,Belmar Elementary,public school 
+Homewood South,Baxter Elemenary,public school 
+Homewood South,Crescent Elementary,public school 
+Homewood South,Homewood Elementary,public school 
+Homewood South,Homewood-Brushton Neighborhood Health Center,health facility
+Homewood South,Pittsburgh Hospital,health facility
+Homewood South,Columbia Hospital,health facility
+Homewood West,Police Station No 5,police station
+Homewood West,Fire Station No 29,fire station
+Homewood West,Baxter Park,recreational facility
+Homewood West,Chadwick Playground,recreational facility
+Homewood West,Homewood Recreation Center,recreational facility
+Homewood West,Westinghouse Park,recreational facility
+Homewood West,Upland Tot Lot,recreational facility
+Homewood West,Frankstown Tot Lot,recreational facility
+Homewood West,Homewood Pool,recreational facility
+Homewood West,Homewood North Parklet,recreational facility
+Homewood West,Finance Street Parklet,recreational facility
+Homewood West,Kelly Street Parket,recreational facility
+Homewood West,Tioga Street Parklet,recreational facility
+Homewood West,Cora Tot Lot,recreational facility
+Homewood West,Hermitage Street Court,recreational facility
+Homewood West,Westinhouse High,public school 
+Homewood West,Belmar Elemenary,public school 
+Homewood West,Baxter Park,public school 
+Homewood West,Crescent Elementary,public school 
+Homewood West,Homewood Elementary,public school 
+Homewood West,Homewood-Brushton Neighborhood Health Center,health facility
+Homewood West,Pittsburgh Hospital,health facility
+Homewood West,Columbia Hospital,health facility
+Knoxville,Knoxville Public Library,public library
+Knoxville,Police Station No 8,police station
+Knoxville,Fire Station No 21,fire station
+Knoxville,McKinley Park,recreational facility
+Knoxville,Knoxville Middle School,public school 
+Knoxville,Knoxvile Elementary School,public school 
+Knoxville,South Hills High School,public school 
+Larimer,Police Station No 5,police station
+Larimer,Fire Station No 6,fire station
+Larimer,Fire Stations No 8,fire station
+Larimer,Pittsburgh Hospital,health facility
+Larimer,West Penn Hospital,health facility
+Larimer,Larimer Playground,recreational facility
+Larimer,East Liberty Playground,recreational facility
+Larimer,Highland Park,recreational facility
+Larimer,Winfield-Shetland Tot Lot,recreational facility
+Larimer,Larimer Elementary,public school 
+Larimer,Lincoln Elementary,public school 
+Larimer,Dilworth Elementary,public school 
+Larimer,Peabody High,public school 
+Lawrenceville,Police Station No 3,police station
+Lawrenceville,Engine Company No 6,fire station
+Lawrenceville,Carnegie Library Lawrenceville,public library
+Lawrenceville,Arsenal Elementary,public school 
+Lawrenceville,Arsenal Middle,public school 
+Lawrenceville,Schenley High School,public school 
+Lawrenceville,Leslie Recreation Center and Pool,recreational facility
+Lawrenceville,Arsenal Park,recreational facility
+Lawrenceville,Bloomfield Recreation Center and Pool,recreational facility
+Lawrenceville,St. Francis Hospital,health facility
+Lawrenceville,St. Margaret's Hospital,health facility
+Lawrenceville,West Penn Hospital,health facility
+Lincoln-Leminton-Belmar,Police Station No 5,police station
+Lincoln-Leminton-Belmar,Fire Station No 38,fire station
+Lincoln-Leminton-Belmar,Paulson Playground,recreational facility
+Lincoln-Leminton-Belmar,Highland Park,recreational facility
+Lincoln-Leminton-Belmar,Chadwick Playground,recreational facility
+Lincoln-Leminton-Belmar,Lemington Elementary,public school 
+Lincoln-Leminton-Belmar,Westinghouse High School,public school 
+Lincoln-Leminton-Belmar,Pittsburgh Hospital,health facility
+Lincoln-Leminton-Belmar,Marcy State Hospital,health facility
+Lincoln-Leminton-Belmar,Veterans Administration Hospital,health facility
+Lincoln-Leminton-Belmar,Juvenile Detention Center,health facility
+Lower Lawrenceville,Police Station No 3,police station
+Lower Lawrenceville,Engine and Truck Company No 25,fire station
+Lower Lawrenceville,Carnegie Library Lawrenceville,public library
+Lower Lawrenceville,Sullivan Playground,recreational facility
+Lower Lawrenceville,Arsenal Park,recreational facility
+Lower Lawrenceville,Leslie Recreation Center and Pool,recreational facility
+Lower Lawrenceville,Bloomfield Recreation Center and Pool,recreational facility
+Lower Lawrenceville,Woolslayer Elementary,public school 
+Lower Lawrenceville,Arsenal Middle,public school 
+Lower Lawrenceville,Schenlely High,public school 
+Lower Lawrenceville,St. Francis Hospital,health facility
+Lower Lawrenceville,St. Margaret's Hospital,health facility
+Lower Lawrenceville,West Penn Hospital,health facility
+Lower Oakland,Police District No 4,police station
+Lower Oakland,Fire Engine Company No 24,fire station
+Lower Oakland,Engine and Truck Company No 4,fire station
+Lower Oakland,Carnegie Library Main Division,public library
+Lower Oakland,Charles Anderson Playground,recreational facility
+Lower Oakland,Zulema Park,recreational facility
+Lower Oakland,Schenely Park,recreational facility
+Lower Oakland,Boundary St. Parklet,recreational facility
+Lower Oakland,Louisa Tot Lot Proposed,recreational facility
+Lower Oakland,Holmes Elementary,public school 
+Lower Oakland,Schenley High School,public school 
+Lower Oakland,University of Pittsburgh,college
+Manchester,Police Station No 9,police station
+Manchester,Fire Station No 43,fire station
+Manchester,Fire Station No 46,fire station
+Manchester,Fire Station No 47,fire station
+Manchester,Carnegie Library North Side Branch,public library
+Manchester,Manchester Elementary Playground,recreational facility
+Manchester,Manchester Elementary Portable Pool,recreational facility
+Manchester,Manchester Elementary School Ballfields,recreational facility
+Manchester,Liverpool Street Tot Lot,recreational facility
+Manchester,Sheffield Street Tot Lot,recreational facility
+Manchester,Franklin Street Tot Lot,recreational facility
+Manchester,Mcknight Field and Courts,recreational facility
+Manchester,Manchester Elementary,public school 
+Manchester,Columbus Middle School,public school 
+Manchester,Allegheny High School,public school 
+Manchester,Oliver High School,public school 
+Manchester,Manchester Clinic with Allegheny General Hospital,health facility
+Manchester,Allegheny General Hospital,health facility
+Manchester,Divine Providence,health facility
+Middle Hill,Fire Station No 5,fire station
+Middle Hill,Carnegie Library Wylie Branch,public library
+Middle Hill,Vann Elementary,public school 
+Middle Hill,Schenely High School,public school 
+Middle Hill,Fifth Avenue High School,public school 
+Middle Hill,Shipton Tot Lot,recreational facility
+Middle Hill,Vann Parklet,recreational facility
+Middle Hill,Wooster Street Tot Lot,recreational facility
+Middle Hill,Grove Street Parklet,recreational facility
+Middle Hill,Ammon Recreational Center,recreational facility
+Middle Hill,Police Station No 2,police station
+Morningside,Police Station No 5,police station
+Morningside,Fire Engine and Truck Station No 36,fire station
+Morningside,Morning Side Playground,recreational facility
+Morningside,Heth's Run Field,recreational facility
+Morningside,Morningside Elementary,public school 
+Morningside,Peabody High School,public school 
+Morningside,West Penn Hospital,health facility
+Morningside,Shadyside Hospital,health facility
+Morningside,University of Pittsburgh Medical Center,health facility
+Mount Washington - Duquesne Heights,Mt. Washington Public Library,public library
+Mount Washington - Duquesne Heights,Police Station No 8,police station
+Mount Washington - Duquesne Heights,Engine Company No 17,fire station
+Mount Washington - Duquesne Heights,Grandview Park,recreational facility
+Mount Washington - Duquesne Heights,Olympia Park,recreational facility
+Mount Washington - Duquesne Heights,Mt. Washington Park,recreational facility
+Mount Washington - Duquesne Heights,Lodge Potenza,recreational facility
+Mount Washington - Duquesne Heights,Shaler Tot Lot,recreational facility
+Mount Washington - Duquesne Heights,Ream Recreation Center,recreational facility
+Mount Washington - Duquesne Heights,Boggs Avenue Tot Lot,recreational facility
+Mount Washington - Duquesne Heights,Prospect Elementary School,public school 
+Mount Washington - Duquesne Heights,Boggs Elementary School,public school 
+Mount Washington - Duquesne Heights,Whittier Elementary High School,public school 
+Mount Washington - Duquesne Heights,South Hills High School,public school 
+North Oakland,Police District No 4,police station
+North Oakland,Fire Engine and Truck Company No 14,fire station
+North Oakland,"Carnegie Library, Main Division",public library
+North Oakland,Trees Hall,recreational facility
+North Oakland,Frick School,recreational facility
+North Oakland,Frick Elementary School,public school 
+North Oakland,Schenley High School,public school 
+North Oakland,University of Pittsburgh,college
+North Oakland,Carlow College,college
+Northview Heights,Fire Station No 50,fire station
+Northview Heights,Fire Station No 54,fire station
+Northview Heights,Police Station No 9,police station
+Northview Heights,Carnegie Library North Side Branch,public library
+Northview Heights,Northview Heights indoor recreational center,recreational facility
+Northview Heights,"Northview Heights playgrounds, indoor recreational center",recreational facility
+Northview Heights,Northview Heights court games,recreational facility
+Northview Heights,Northview Heights ballfield,recreational facility
+Northview Heights,Northview Heights Elementary indoor gym,recreational facility
+Northview Heights,Northview Heights Elementary playground,recreational facility
+Northview Heights,Northview Heights Elementary School,public school 
+Northview Heights,McNaugher Middle School,public school 
+Northview Heights,Perry High School,public school 
+Perry North,Fire Station No 50,fire station
+Perry North,Fire Station No 54,fire station
+Perry North,Police Station No 9,police station
+Perry North,Carnegie Library North Side Branch,public library
+Perry North,Perry High School indoor swimming pool,recreational facility
+Perry North,Perry High School court games,recreational facility
+Perry North,Perry High School ballfield,recreational facility
+Perry North,Riverview Park court games,recreational facility
+Perry North,Riverview Park ballfield,recreational facility
+Perry North,Riverview Park outdoor swimming pool,recreational facility
+Perry North,Chatham Elementary Play Yard,recreational facility
+Perry North,Vinceton Parklet,recreational facility
+Perry North,Milroy Parklet,recreational facility
+Perry North,Chatham Elementary School,public school 
+Perry North,McNauher Middle Schol,public school 
+Perry North,Perry High School,public school 
+Perry North,Allegheny General Hospital,health facility
+Perry North,Divine Providence Hospital,health facility
+Perry North,St. Johns Hospital,health facility
+Perry South,Fire Station No 50,fire station
+Perry South,Fire Station No 46,fire station
+Perry South,Fire Station No 43,fire station
+Perry South,Police Station No 9,police station
+Perry South,Carnegie Library North Side Branch,public library
+Perry South,Fowler Swimming Pool,recreational facility
+Perry South,Fowler Court Games,recreational facility
+Perry South,Fowler Ballfields,recreational facility
+Perry South,Fowler Playground,recreational facility
+Perry South,Clayton School Court Games,recreational facility
+Perry South,Clayton School Ballfield,recreational facility
+Perry South,Fineview Tot Lot,recreational facility
+Perry South,Fineview Ballfield and tot lot,recreational facility
+Perry South,Fineview School playground,recreational facility
+Perry South,Strauss and Cross Tot Lot,recreational facility
+Perry South,Charles Street Tot Lot,recreational facility
+Perry South,McNaugher Tot Lot,recreational facility
+Perry South,Martin Luther King Elementary,public school 
+Perry South,Clayton Elementary,public school 
+Perry South,McNaugher Middle School,public school 
+Perry South,Columbus Middle School,public school 
+Perry South,Latimer Middle School,public school 
+Perry South,Oliver High School,public school 
+Perry South,Allegheny High School,public school 
+Perry South,Allegheny General Hospital,health facility
+Perry South,Divine Providence Hospital,health facility
+Perry South,St. Johns Hospital,health facility
+Point Breeze,Police Station No 6,police station
+Point Breeze,Fire Station No 16,fire station
+Point Breeze,Westinghouse Park,recreational facility
+Point Breeze,Frick Park,recreational facility
+Point Breeze,Mellon Park,recreational facility
+Point Breeze,Homewood Elementary,public school 
+Point Breeze,Sterret Elementary,public school 
+Point Breeze,Westinghouse High School,public school 
+Point Breeze,Taylor-Alderdice High School,public school 
+Point Breeze,Homewood-Brushton Neighborhood Health Center,health facility
+Point Breeze,Pittsburgh Hospital,health facility
+Point Breeze,Shadyside Hospital,health facility
+Polish Hill,Police Station No 3,police station
+Polish Hill,Fire Station No 7,fire station
+Polish Hill,Fire Station No 25,fire station
+Polish Hill,West Penn Recreation Center 30th and Brereton,recreational facility
+Polish Hill,Melwood Tot Lot,recreational facility
+Polish Hill,St. Francis Hospital,health facility
+Polish Hill,West Penn Hospital,health facility
+Polish Hill,Woolslayer Elementary School,public school 
+Polish Hill,Arsenal Middle School,public school 
+Polish Hill,Schenley High School,public school 
+Regent Square,Police District No 6,police station
+Regent Square,Fire Engine Company No 16,fire station
+Regent Square,Carnegie Library Squirrel Hill Branch,public library
+Regent Square,Frick Park,recreational facility
+Regent Square,Park Place Parklet,recreational facility
+Regent Square,Regent Square Elementary,public school 
+Regent Square,Alderdice High School,public school 
+Regent Square,University Medical Center,health facility
+Ridgemont - Chicken Hill,Police District No 8,police station
+Ridgemont - Chicken Hill,Fire Station No 10,fire station
+Ridgemont - Chicken Hill,Fire Station No 39,fire station
+Ridgemont - Chicken Hill,Westwood Elementary,public school 
+Ridgemont - Chicken Hill,Langley High School,public school 
+Shadland Halls Grove,Fire Station No 42,fire station
+Shadland Halls Grove,Fire Station No 52,fire station
+Shadland Halls Grove,Fire Station No 55,fire station
+Shadland Halls Grove,Police Station No 9,police station
+Shadland Halls Grove,Carnegie Library Woods Run Branch,public library
+Shadland Halls Grove,Horace Mann School Ballfield,recreational facility
+Shadland Halls Grove,Young Field,recreational facility
+Shadland Halls Grove,Woods Run Parklet,recreational facility
+Shadland Halls Grove,"Oliver High School Ballfields, Courts, and Indoor Swimming Pool",recreational facility
+Shadland Halls Grove,Halls Grove Indoor Gym,recreational facility
+Shadland Halls Grove,Halls Grove Play Yard,recreational facility
+Shadland Halls Grove,Lang Pool,recreational facility
+Shadland Halls Grove,Halls Grove Elementary,public school 
+Shadland Halls Grove,Horace Mann Elementary,public school 
+Shadland Halls Grove,Columbus Middle Scool,public school 
+Shadland Halls Grove,Oliver High School,public school 
+Shadland Halls Grove,St. John's Hospital,health facility
+Shadland Halls Grove,Divine Providence Hospital,health facility
+Shadland Halls Grove,Allegheny General Hospital,health facility
+Shadyside,Shadyside Hospital,health facility
+Shadyside,Police Station No 6,police station
+Shadyside,Fire Station No 14,fire station
+Shadyside,Fire Station No 28,fire station
+Shadyside,"Carnegie Library, Central Branch",public library
+Shadyside,Liberty Elementary School,public school 
+Shadyside,Arsenal Middle School,public school 
+Shadyside,Peabody High School,public school 
+Shadyside,Mellon Park,recreational facility
+Shadyside,Pierce and Summerlea Tot Lot,recreational facility
+Sheraton Chartiers,Fire Station No 40,fire station
+Sheraton Chartiers,Police District No 8,police station
+Sheraton Chartiers,Sheraden Park,recreational facility
+Sheraton Chartiers,Chartiers Playground,recreational facility
+Sheraton Chartiers,Mutual Street Court,recreational facility
+Sheraton Chartiers,McGunnegle Playground,recreational facility
+Sheraton Chartiers,Sheraden Elementary School,public school 
+Sheraton Chartiers,Chartiers Elementary School,public school 
+Sheraton Chartiers,Langley High School,public school 
+South Oakland,Police District No 4,police station
+South Oakland,Fire Engine and Truck Company No 14,fire station
+South Oakland,Carnegie Library Main Division,public library
+South Oakland,Schenley High School,public school
+South Oakland,Holmes Elementary,public school 
+South Oakland,Holmes Playground,recreational facility
+South Oakland,Niagara Tot Lot,recreational facility
+South Oakland,Frazier Field,recreational facility
+South Oakland,Charles Anderson Playground,recreational facility
+South Oakland,Lawn and Ophelia Parklet,recreational facility
+South Oakland,Schenley Park,recreational facility
+Southside Flats,Police Station No 7,police station
+Southside Flats,Fire Station No 12,fire station
+Southside Flats,Carnegie Library,public library
+Southside Flats,St. Joseph Hospital,health facility
+Southside Flats,South Side Hospital,health facility
+Southside Flats,Ornsby Recreation Center,recreational facility
+Southside Flats,Armstrong center,recreational facility
+Southside Flats,Market House,recreational facility
+Southside Flats,28th Street Tot Lot,recreational facility
+Southside Flats,Senior Citizens' Lounge,recreational facility
+Southside Flats,Morse Elementary,public school 
+Southside Flats,Philips Elementary,public school 
+Southside Flats,South High School,public school 
+Southside Slopes,Police Station No 7,police station
+Southside Slopes,Fire Station No 22,fire station
+Southside Slopes,Morse Elementary,public school 
+Southside Slopes,South Junior and Senior High School,public school 
+Southside Slopes,South Side Park Quarry Field,recreational facility
+Southside Slopes,Winters Playground,recreational facility
+Southside Slopes,Monongahela Playground,recreational facility
+Southside Slopes,Sterling Street Tot Lot,recreational facility
+Spring Hill,Fire Station No 42,fire station
+Spring Hill,Fire Station No 51,fire station
+Spring Hill,Fire Station No 53,fire station
+Spring Hill,Police Station No 9,police station
+Spring Hill,Carnegie Library North Side Branch,public library
+Spring Hill,Spring Hill Playground and Ballfield,recreational facility
+Spring Hill,Spring Hill Elementary School,public school 
+Spring Hill,Latimer Middle School,public school 
+Spring Hill,Allegheny High School,public school 
+Spring Hill,Allegheny General Hospital,health facility
+Spring Hill,Divine Providence Hospital,health facility
+Spring Hill,St. John's Hospital,health facility
+Squirrel Hill - North of Forbes,Police District No 6,police station
+Squirrel Hill - North of Forbes,Fire Engine and Truck Company No 34,fire station
+Squirrel Hill - North of Forbes,"Carnegie Library, Squirrel Hill Branch",public library
+Squirrel Hill - North of Forbes,Linden Elementary School,public school
+Squirrel Hill - North of Forbes,Wightman Elementary School,public school
+Squirrel Hill - North of Forbes,Minadeo Elementary School,public school
+Squirrel Hill - North of Forbes,Davis Elementary School,public school
+Squirrel Hill - North of Forbes,Sterrett Elementary School,public school
+Squirrel Hill - North of Forbes,Park Place Elementary School,public school
+Squirrel Hill - North of Forbes,Colfax Elementary School,public school
+Squirrel Hill - North of Forbes,Taylor Allderdice High School,public school
+Squirrel Hill - North of Forbes,Schenley Park,recreational facility
+Squirrel Hill - North of Forbes,Davis Playground,recreational facility
+Squirrel Hill - North of Forbes,Frick Park,recreational facility
+Squirrel Hill - North of Forbes,Park Place Parklet,recreational facility
+Squirrel Hill - North of Forbes,Wightman Playground,recreational facility
+Squirrel Hill - North of Forbes,Sterrett Playground,recreational facility
+Squirrel Hill - North of Forbes,Carnegie Mellon University,college
+Squirrel Hill - North of Forbes,Chatham College,college
+Squirrel Hill - South of Forbes,Police District No 6,police station
+Squirrel Hill - South of Forbes,Fire Engine and Truck Company No 34,fire station
+Squirrel Hill - South of Forbes,"Carnegie Library, Squirrel Hill Branch",public library
+Squirrel Hill - South of Forbes,Linden Elementary School,public school
+Squirrel Hill - South of Forbes,Wightman Elementary School,public school
+Squirrel Hill - South of Forbes,Minadeo Elementary School,public school
+Squirrel Hill - South of Forbes,Davis Elementary School,public school
+Squirrel Hill - South of Forbes,Sterrett Elementary School,public school
+Squirrel Hill - South of Forbes,Park Place Elementary School,public school
+Squirrel Hill - South of Forbes,Colfax Elementary School,public school
+Squirrel Hill - South of Forbes,Taylor Allderdice High School,public school
+Squirrel Hill - South of Forbes,Schenley Park,recreational facility
+Squirrel Hill - South of Forbes,Davis Playground,recreational facility
+Squirrel Hill - South of Forbes,Frick Park,recreational facility
+Squirrel Hill - South of Forbes,Park Place Parklet,recreational facility
+Squirrel Hill - South of Forbes,Wightman Playground,recreational facility
+Squirrel Hill - South of Forbes,Sterrett Playground,recreational facility
+Squirrel Hill - South of Forbes,Carnegie Mellon University,college
+Squirrel Hill - South of Forbes,Chatham College,college
+St. Clair,Police Station No 7,police station
+St. Clair,Fire Station No 22,fire station
+St. Clair,Phillip Murray Field,recreational facility
+St. Clair,Housing Authority Recreation Area,recreational facility
+St. Clair,Phillip Murray,public school 
+St. Clair,Carrick High School,public school 
+Stanton Heights,Police Station No 3,police station
+Stanton Heights,Engine and Truck Company No 36,fire station
+Stanton Heights,Sunnyside Elementary School,public school 
+Stanton Heights,Peabody High School,public school 
+Stanton Heights,Sunnyside Elementary School,public school 
+Stanton Heights,Highland Park,recreational facility
+Stanton Heights,Shadyside Hospital,health facility
+Stanton Heights,West Penn Hospital,health facility
+Swisshelm Park,Police District No 6,police station
+Swisshelm Park,Fire Engine Company No 61,fire station
+Swisshelm Park,Onondaga Tot Lot,recreational facility
+Swisshelm Park,Swisshelm Park Elementary,public school 
+Swisshelm Park,Taylor Allderdice High School,public school 
+Terrace Village,Police Station No 2,police station
+Terrace Village,Fire Station No 5,fire station
+Terrace Village,Leo Weil Elementary,public school 
+Terrace Village,Schenley High School,public school 
+Terrace Village,Fifth Avenue High School,public school 
+Terrace Village,Kennard Recreation Complex,recreational facility
+Terrace Village,Martin Luther King Field,recreational facility
+Terrace Village,Wadsworth Hall Parklet,recreational facility
+Terrace Village,Aliquippa St. Parklet,recreational facility
+Terrace Village,Devilliers No 1 Tot Lot,recreational facility
+The Bluff,Police Station No 2,police station
+The Bluff,Department of Land and Buildings District office,public agency
+The Bluff,Fire Engine Company No 4,fire station 
+The Bluff,Fire Engine Truck No 3,fire station 
+The Bluff,Miltenberger-Locust Basketball Court,recreational facility
+The Bluff,Tustin Street Tot Lot No 1,recreational facility
+The Bluff,Tustin Street Tot Lot No2,recreational facility
+The Bluff,Mercy Hospital,health facility
+The Bluff,Central Medical Pavilion,health facility
+The Bluff,Allegheny County Public Health District Office,health facility
+The Bluff,Fifth Avenue High School,public school 
+The Strip,Denny Tot Lot,recreational facility
+The Strip,West Penn Recreation Center,recreational facility
+The Strip,Arsenal Playground,recreational facility
+The Strip,Leslie Playground and Pool,recreational facility
+The Strip,Sullivan Playground,recreational facility
+The Strip,Police Station No 3,police station
+The Strip,Fire Station No 7,fire station 
+The Strip,Woolslayer Elementary,public school 
+The Strip,Arsenal Middle School,public school 
+The Strip,Schenley High School,public school 
+The Strip,St. Francis Hospital,health facility
+The Strip,St. Margaret's Hospital,health facility
+The Strip,St. Margaret's Hospital,West Penn Hospital
+Troy Hill,Fire Station No 51,fire station 
+Troy Hill,Fire Station No 53,fire station
+Troy Hill,Police Station No 9,police station
+Troy Hill,"Carnegie Library, North Side Branch",public library
+Troy Hill,"Cowley Goettman Recreation Center, Ballfield, and Swimming Pool",recreational facility
+Troy Hill,Cowley-Gardner Ballfield and Courts,recreational facility
+Troy Hill,Lookout Street Parklet,recreational facility
+Troy Hill,Spring Garden Elementary,public school 
+Troy Hill,Latimer Middle School,public school 
+Troy Hill,Allegheny High School,public school 
+Troy Hill,Allegheny General Hospital,health facility
+Troy Hill,Divine Providence Hospital,health facility
+Troy Hill,St. Johns Hospital,health facility
+Upper Hill,Police Station No 2,police station
+Upper Hill,Fire Station No 5,fire station
+Upper Hill,"Carnegie Library, Wylie Branch",public library
+Upper Hill,Herron Hill Junior High School,public school 
+Upper Hill,Schenley High School,public school 
+Upper Hill,Fifth Avenue High School,public school 
+Upper Hill,Herron Hill Park,recreational facility
+Upper Hill,Schenley High Ballfield and Courts,recreational facility
+Upper Lawrenceville,Police Station No 3,police station
+Upper Lawrenceville,Engine Company No 9,fire station
+Upper Lawrenceville,McCleary Elementary,public school 
+Upper Lawrenceville,Arseal Middle,public school 
+Upper Lawrenceville,Schenley High,public school 
+Upper Lawrenceville,Peabody High,public school 
+Upper Lawrenceville,Leslie Recreation Center and Pool,recreational facility
+Upper Lawrenceville,Duna Parklot,recreational facility
+Upper Lawrenceville,Butler and McCandless Court,recreational facility
+Upper Lawrenceville,Butler and 57th Playground,recreational facility
+Upper Lawrenceville,Carnegie and McCandless Tot Lot,recreational facility
+Upper Lawrenceville,St. Francis Hospital,health facility
+Upper Lawrenceville,St. Margaret's Hospital,health facility
+West End Valley,Fire Station No 10,fire station
+West End Valley,Carnegie Library West End Branch,public library
+West End Valley,Police District No 8,police station
+West End Valley,Wabash Playground,recreational facility
+West End Valley,West End Recreation Center,recreational facility
+West End Valley,Langley High Recreation Area,recreational facility
+West End Valley,Stevens Elementary,public school 
+West End Valley,Langey Jr. and Sr. High School,public school 
+West End Valley,Southwest Pgh. Mental Health Consultation Service,health facility
